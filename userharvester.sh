@@ -1,5 +1,4 @@
 #!/bin/bash
-#Coded By R3D
 #2020/26/მარტი
 
 scanner() {
